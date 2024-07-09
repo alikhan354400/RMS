@@ -1,0 +1,11 @@
+@media (max-width: 576px) {
+    .custom-card-content {
+        padding: 10px;
+    }
+}
+
+@media (min-width: 768px) {
+    .custom-card-content {
+        padding: 20px;
+    }
+}
